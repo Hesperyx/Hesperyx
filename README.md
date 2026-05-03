@@ -24,8 +24,7 @@
 ### contributions
 
 <picture>
-<!-- 根据主题颜色来决定用亮的还是黑的 -->
-  <source media="(prefers-color-scheme: dark)" srcs="./dist/github-snack-dark.svg" />
-  <source media="(prefers-color-scheme: light)" src="./dist/github-snack.svg" />
-  <img alt="github contribution grid snake" src="./dist/ocean.gif" />
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
