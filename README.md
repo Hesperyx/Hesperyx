@@ -1,7 +1,7 @@
 ### Hi there 👋<a href="https://github.com/Hesperyx/"><img align="right" src="https://komarev.com/ghpvc/?username=Hesperyx&label=Views"></a>
 
 <div align="center">
-![一言]([https://api.yimian.xyz/hitokoto?t=1](https://v1.hitokoto.cn/?c=f&encode=text))
+![一言](https://v1.hitokoto.cn/?c=f&encode=text)
 </div>
 
 <table align="center">
