@@ -1,16 +1,22 @@
 ## Hi there 👋
 
-<!--
-**Hesperyx/Hesperyx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<table align="center">
+    <tr>
+        <td align="center">
+          <picture>
+            <img src="./profile/stats.svg">
+          </picture>
+        </td>
+        <td align="center">
+          <picture>
+            <img src="./profile/top-langs.svg">
+          </picture>
+        </td>
+    </tr>
+</table>
 
-Here are some ideas to get you started:
+### Trophy 🏆
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <img src="./profile/trophy.svg"/>
+</div>
