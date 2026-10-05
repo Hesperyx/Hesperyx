@@ -31,14 +31,14 @@ jobs:
           card: top-langs
           options: username=${{ github.repository_owner }}&layout=compact&langs_count=12&hide_border=true&theme=transparent&locale=en
           path: profile/top-langs.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: token: ${{ secrets.STATS_PAT }}
 
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
           options: username=${{ github.repository_owner }}&row=1&column=7&margin-w=15&no-bg=true&no-frame=false
           path: profile/trophy.svg
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: token: ${{ secrets.STATS_PAT }}
 
       - name: Generate snake animation
         uses: Platane/snk@v3
