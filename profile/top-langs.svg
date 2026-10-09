@@ -160,7 +160,7 @@
           data-testid="lang-progress"
           x="0.00"
           y="0"
-          width="160.22"
+          width="160.26"
           height="8"
           fill="#A97BFF"
         />
@@ -168,9 +168,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="160.22"
+          x="160.26"
           y="0"
-          width="55.92"
+          width="55.90"
           height="8"
           fill="#b07219"
         />
@@ -178,9 +178,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="216.14"
+          x="216.16"
           y="0"
-          width="22.89"
+          width="22.88"
           height="8"
           fill="#00B4AB"
         />
@@ -190,7 +190,7 @@
           data-testid="lang-progress"
           x="239.03"
           y="0"
-          width="16.24"
+          width="16.23"
           height="8"
           fill="#1d365d"
         />
@@ -280,12 +280,12 @@
     <g transform="translate(0, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#A97BFF" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Kotlin 64.09%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Kotlin 64.10%</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#b07219" />
-      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 22.37%</text>
+      <text data-testid="lang-name" x="15" y="10" class="lang-name">Java 22.36%</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms">
